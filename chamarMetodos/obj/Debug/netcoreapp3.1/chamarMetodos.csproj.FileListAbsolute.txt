@@ -1,0 +1,13 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\bin\Debug\netcoreapp3.1\chamarMetodos.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\bin\Debug\netcoreapp3.1\chamarMetodos.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\bin\Debug\netcoreapp3.1\chamarMetodos.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\bin\Debug\netcoreapp3.1\chamarMetodos.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\bin\Debug\netcoreapp3.1\chamarMetodos.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\bin\Debug\netcoreapp3.1\chamarMetodos.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\obj\Debug\netcoreapp3.1\chamarMetodos.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\obj\Debug\netcoreapp3.1\chamarMetodos.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\obj\Debug\netcoreapp3.1\chamarMetodos.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\obj\Debug\netcoreapp3.1\chamarMetodos.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\obj\Debug\netcoreapp3.1\chamarMetodos.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\obj\Debug\netcoreapp3.1\chamarMetodos.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\chamarMetodos\obj\Debug\netcoreapp3.1\chamarMetodos.genruntimeconfig.cache

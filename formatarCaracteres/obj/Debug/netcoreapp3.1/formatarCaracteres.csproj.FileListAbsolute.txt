@@ -1,0 +1,13 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\bin\Debug\netcoreapp3.1\formatarCaracteres.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\bin\Debug\netcoreapp3.1\formatarCaracteres.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\bin\Debug\netcoreapp3.1\formatarCaracteres.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\bin\Debug\netcoreapp3.1\formatarCaracteres.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\bin\Debug\netcoreapp3.1\formatarCaracteres.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\bin\Debug\netcoreapp3.1\formatarCaracteres.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\obj\Debug\netcoreapp3.1\formatarCaracteres.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\obj\Debug\netcoreapp3.1\formatarCaracteres.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\obj\Debug\netcoreapp3.1\formatarCaracteres.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\obj\Debug\netcoreapp3.1\formatarCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\obj\Debug\netcoreapp3.1\formatarCaracteres.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\obj\Debug\netcoreapp3.1\formatarCaracteres.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\formatarCaracteres\obj\Debug\netcoreapp3.1\formatarCaracteres.genruntimeconfig.cache

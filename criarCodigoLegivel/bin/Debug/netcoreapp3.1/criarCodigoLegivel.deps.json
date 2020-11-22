@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "criarCodigoLegivel/1.0.0": {
+        "runtime": {
+          "criarCodigoLegivel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "criarCodigoLegivel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

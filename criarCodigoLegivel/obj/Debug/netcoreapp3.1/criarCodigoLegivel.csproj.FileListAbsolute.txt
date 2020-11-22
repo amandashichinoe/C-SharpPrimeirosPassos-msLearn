@@ -1,0 +1,13 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\bin\Debug\netcoreapp3.1\criarCodigoLegivel.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\bin\Debug\netcoreapp3.1\criarCodigoLegivel.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\bin\Debug\netcoreapp3.1\criarCodigoLegivel.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\bin\Debug\netcoreapp3.1\criarCodigoLegivel.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\bin\Debug\netcoreapp3.1\criarCodigoLegivel.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\bin\Debug\netcoreapp3.1\criarCodigoLegivel.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\obj\Debug\netcoreapp3.1\criarCodigoLegivel.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\obj\Debug\netcoreapp3.1\criarCodigoLegivel.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\obj\Debug\netcoreapp3.1\criarCodigoLegivel.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\obj\Debug\netcoreapp3.1\criarCodigoLegivel.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\obj\Debug\netcoreapp3.1\criarCodigoLegivel.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\obj\Debug\netcoreapp3.1\criarCodigoLegivel.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\criarCodigoLegivel\obj\Debug\netcoreapp3.1\criarCodigoLegivel.genruntimeconfig.cache

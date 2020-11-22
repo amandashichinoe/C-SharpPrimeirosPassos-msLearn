@@ -1,0 +1,13 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\bin\Debug\netcoreapp3.1\arraysAndForeach.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\bin\Debug\netcoreapp3.1\arraysAndForeach.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\bin\Debug\netcoreapp3.1\arraysAndForeach.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\bin\Debug\netcoreapp3.1\arraysAndForeach.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\bin\Debug\netcoreapp3.1\arraysAndForeach.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\bin\Debug\netcoreapp3.1\arraysAndForeach.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\obj\Debug\netcoreapp3.1\arraysAndForeach.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\obj\Debug\netcoreapp3.1\arraysAndForeach.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\obj\Debug\netcoreapp3.1\arraysAndForeach.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\obj\Debug\netcoreapp3.1\arraysAndForeach.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\obj\Debug\netcoreapp3.1\arraysAndForeach.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\obj\Debug\netcoreapp3.1\arraysAndForeach.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\arraysAndForeach\obj\Debug\netcoreapp3.1\arraysAndForeach.genruntimeconfig.cache

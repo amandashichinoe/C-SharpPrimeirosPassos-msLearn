@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "valoresLiterais-e-variaveis/1.0.0": {
+        "runtime": {
+          "valoresLiterais-e-variaveis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "valoresLiterais-e-variaveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

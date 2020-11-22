@@ -1,0 +1,13 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\bin\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\bin\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\bin\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\bin\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\bin\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\bin\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\obj\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\obj\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\obj\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\obj\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\obj\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\obj\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\valoresLiterais-e-variaveis\obj\Debug\netcoreapp3.1\valoresLiterais-e-variaveis.genruntimeconfig.cache

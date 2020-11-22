@@ -1,0 +1,13 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\bin\Debug\netcoreapp3.1\operacoesBasicas.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\bin\Debug\netcoreapp3.1\operacoesBasicas.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\bin\Debug\netcoreapp3.1\operacoesBasicas.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\bin\Debug\netcoreapp3.1\operacoesBasicas.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\bin\Debug\netcoreapp3.1\operacoesBasicas.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\bin\Debug\netcoreapp3.1\operacoesBasicas.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\obj\Debug\netcoreapp3.1\operacoesBasicas.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\obj\Debug\netcoreapp3.1\operacoesBasicas.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\obj\Debug\netcoreapp3.1\operacoesBasicas.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\obj\Debug\netcoreapp3.1\operacoesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\obj\Debug\netcoreapp3.1\operacoesBasicas.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\obj\Debug\netcoreapp3.1\operacoesBasicas.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\trilhasCS-msLearn\operacoesBasicas\obj\Debug\netcoreapp3.1\operacoesBasicas.genruntimeconfig.cache

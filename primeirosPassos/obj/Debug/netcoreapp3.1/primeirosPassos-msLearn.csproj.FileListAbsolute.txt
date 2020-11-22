@@ -1,0 +1,13 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\bin\Debug\netcoreapp3.1\primeirosPassos-msLearn.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\bin\Debug\netcoreapp3.1\primeirosPassos-msLearn.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\bin\Debug\netcoreapp3.1\primeirosPassos-msLearn.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\bin\Debug\netcoreapp3.1\primeirosPassos-msLearn.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\bin\Debug\netcoreapp3.1\primeirosPassos-msLearn.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\bin\Debug\netcoreapp3.1\primeirosPassos-msLearn.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\obj\Debug\netcoreapp3.1\primeirosPassos-msLearn.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\obj\Debug\netcoreapp3.1\primeirosPassos-msLearn.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\obj\Debug\netcoreapp3.1\primeirosPassos-msLearn.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\obj\Debug\netcoreapp3.1\primeirosPassos-msLearn.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\obj\Debug\netcoreapp3.1\primeirosPassos-msLearn.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\obj\Debug\netcoreapp3.1\primeirosPassos-msLearn.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\primeirosPassos-msLearn\obj\Debug\netcoreapp3.1\primeirosPassos-msLearn.genruntimeconfig.cache
