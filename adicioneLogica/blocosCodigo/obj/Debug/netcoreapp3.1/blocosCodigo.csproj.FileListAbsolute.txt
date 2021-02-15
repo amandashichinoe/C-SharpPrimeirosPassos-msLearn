@@ -1,0 +1,13 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\obj\Debug\netcoreapp3.1\blocosCodigo.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\obj\Debug\netcoreapp3.1\blocosCodigo.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\obj\Debug\netcoreapp3.1\blocosCodigo.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\obj\Debug\netcoreapp3.1\blocosCodigo.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\bin\Debug\netcoreapp3.1\blocosCodigo.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\bin\Debug\netcoreapp3.1\blocosCodigo.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\bin\Debug\netcoreapp3.1\blocosCodigo.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\bin\Debug\netcoreapp3.1\blocosCodigo.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\bin\Debug\netcoreapp3.1\blocosCodigo.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\bin\Debug\netcoreapp3.1\blocosCodigo.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\obj\Debug\netcoreapp3.1\blocosCodigo.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\obj\Debug\netcoreapp3.1\blocosCodigo.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\blocosCodigo\obj\Debug\netcoreapp3.1\blocosCodigo.genruntimeconfig.cache

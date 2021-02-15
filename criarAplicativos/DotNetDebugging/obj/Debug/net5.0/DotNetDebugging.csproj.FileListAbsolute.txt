@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\bin\Debug\net5.0\ref\DotNetDebugging.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\bin\Debug\net5.0\DotNetDebugging.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\obj\Debug\net5.0\ref\DotNetDebugging.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\criarAplicativos\DotNetDebugging\obj\Debug\net5.0\DotNetDebugging.genruntimeconfig.cache

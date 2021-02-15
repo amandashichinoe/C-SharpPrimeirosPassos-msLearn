@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\obj\Debug\net5.0\avaliarBooleanas.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\obj\Debug\net5.0\avaliarBooleanas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\obj\Debug\net5.0\avaliarBooleanas.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\obj\Debug\net5.0\avaliarBooleanas.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\obj\Debug\net5.0\avaliarBooleanas.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\bin\Debug\net5.0\avaliarBooleanas.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\bin\Debug\net5.0\avaliarBooleanas.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\bin\Debug\net5.0\avaliarBooleanas.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\bin\Debug\net5.0\avaliarBooleanas.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\bin\Debug\net5.0\avaliarBooleanas.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\bin\Debug\net5.0\ref\avaliarBooleanas.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\bin\Debug\net5.0\avaliarBooleanas.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\obj\Debug\net5.0\avaliarBooleanas.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\obj\Debug\net5.0\ref\avaliarBooleanas.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\obj\Debug\net5.0\avaliarBooleanas.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\avaliarBooleanas\obj\Debug\net5.0\avaliarBooleanas.genruntimeconfig.cache

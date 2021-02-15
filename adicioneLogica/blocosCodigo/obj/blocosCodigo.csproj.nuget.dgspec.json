@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\adicionandoLogicaComC-Sharp-msLearn\\blocosCodigo\\blocosCodigo.csproj": {}
+    "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\TrilhasDotNet\\adicioneLogica\\blocosCodigo\\blocosCodigo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\adicionandoLogicaComC-Sharp-msLearn\\blocosCodigo\\blocosCodigo.csproj": {
+    "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\TrilhasDotNet\\adicioneLogica\\blocosCodigo\\blocosCodigo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\adicionandoLogicaComC-Sharp-msLearn\\blocosCodigo\\blocosCodigo.csproj",
+        "projectUniqueName": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\TrilhasDotNet\\adicioneLogica\\blocosCodigo\\blocosCodigo.csproj",
         "projectName": "blocosCodigo",
-        "projectPath": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\adicionandoLogicaComC-Sharp-msLearn\\blocosCodigo\\blocosCodigo.csproj",
+        "projectPath": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\TrilhasDotNet\\adicioneLogica\\blocosCodigo\\blocosCodigo.csproj",
         "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\adicionandoLogicaComC-Sharp-msLearn\\blocosCodigo\\obj\\",
+        "outputPath": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\TrilhasDotNet\\adicioneLogica\\blocosCodigo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
